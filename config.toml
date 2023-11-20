@@ -1,0 +1,15 @@
+baseURL = "https://manilabay-reclamation.info"
+languageCode = 'en-us'
+theme = "coming-soon"
+
+[params]
+    title = "Manila Bay Reclamation"
+    description = "Unveiling the Truths for a Sustainable Future"
+    favicon = ""
+    message = "COMING SOON!"
+    release = "Nov 28, 2023"
+    background = ""
+
+socialIcons = [
+    {name = "email", url = "justintin@depedmanila.net"},
+] 
