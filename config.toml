@@ -8,7 +8,7 @@ theme = "coming-soon"
     favicon = ""
     message = "COMING SOON!"
     release = "Nov 28, 2023"
-    background = ""
+    background = "img/coming-soon-background.jpg"
 
 socialIcons = [
     {name = "email", url = "justintin@depedmanila.net"},
